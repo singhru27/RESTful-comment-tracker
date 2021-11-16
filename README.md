@@ -1,6 +1,5 @@
 ## Project Name & Pitch
 
-Image Gallery:
 
 RESTful in-memory web application that allows for CRUD operations for user submitted comments. 
 
